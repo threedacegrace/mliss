@@ -1,0 +1,36 @@
+{
+  "changelog": {
+    "color": "#00FFFF",
+    "text": "Latest Changelog\n[fiverose.cc]\nAdded Support for Flag Football\nAdded Support for Football Fusion 2\nAdded Support for High School Football\nAdded Support for Football Legends\nAdded Support for Freestyle Football\nAdded Support for Funky Friday\nAdded Auto-Hombolo for Universal Reach\nFixed Hombolo debounce timing\nAdded fallback ball detection by size\nImproved touch loop system\nLast Update: 26.12.2025"
+  },
+
+  "games": [
+    { "name": "TPS: Ultimate Soccer", "status": "Green" },
+    { "name": "MPS 4-a: Side", "status": "Green" },
+    { "name": "MPS Futsal", "status": "Green" },
+    { "name": "MPS Classic", "status": "Green" },
+    { "name": "MMP", "status": "Green" },
+    { "name": "OPSA", "status": "Green" },
+    { "name": "OFA", "status": "Green" },
+    { "name": "RFF", "status": "Green" },
+    { "name": "VEF", "status": "Green" },
+    { "name": "Basketball Legends", "status": "Green" },
+    { "name": "Pure Soccer", "status": "Green" },
+    { "name": "SSRL", "status": "Green" },
+    { "name": "Freestyle Football", "status": "Green" },
+    { "name": "Flag Football", "status": "Green" },
+    { "name": "Football Fusion 2", "status": "Green" },
+    { "name": "High School Football", "status": "Green" },
+    { "name": "Football Legends", "status": "Green" },
+    { "name": "Funky Friday", "status": "Green" },
+    { "name": "SPIKED", "status": "Green" },
+    { "name": "Arsenal", "status": "Green" },
+    { "name": "Volleyball 4.2", "status": "Red" }
+  ],
+
+  "quote": {
+    "text": "To be or not to be: that is the question.",
+    "author": "William Shakespeare",
+    "color": "#FFFF00"
+  }
+}
