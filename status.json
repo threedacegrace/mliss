@@ -6,6 +6,7 @@
 
   "games": [
     { "name": "TPS: Ultimate Soccer", "status": "Green" },
+    { "name": "RF24", "status": "Green" },
     { "name": "MPS 4-a: Side", "status": "Green" },
     { "name": "MPS Futsal", "status": "Green" },
     { "name": "MPS Classic", "status": "Green" },
