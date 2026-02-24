@@ -10,14 +10,13 @@
     { "name": "MPS 4-a: Side", "status": "Green" },
     { "name": "MPS Futsal", "status": "Green" },
     { "name": "MPS Classic", "status": "Green" },
-    { "name": "Pure Soccer", "status": "Green" },    
+    { "name": "Pure Soccer", "status": "Green" },
     { "name": "MMP", "status": "Green" },
     { "name": "OPSA", "status": "Green" },
     { "name": "OFA", "status": "Green" },
     { "name": "RFF", "status": "Green" },
-    { "name": "VEF", "status": "Green" },   
+    { "name": "VEF", "status": "Green" },
     { "name": "Basketball Legends", "status": "Green" },
-    { "name": "Pure Soccer", "status": "Green" },
     { "name": "SSRL", "status": "Green" },
     { "name": "Freestyle Football", "status": "Green" },
     { "name": "Flag Football", "status": "Green" },
@@ -29,8 +28,7 @@
     { "name": "Arsenal", "status": "Red" },
     { "name": "Volleyball 4.2", "status": "Red" },
     { "name": "TOUCHLINE", "status": "Green" }
-  ]
-}
+  ],
 
   "quote": {
     "text": "To be or not to be: that is the question.",
