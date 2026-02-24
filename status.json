@@ -24,10 +24,10 @@
     { "name": "High School Football", "status": "Green" },
     { "name": "Football Legends", "status": "Green" },
     { "name": "Funky Friday", "status": "Green" },
-    { "name": "TOUCHLINE", "status": "Green" }    
+    { "name": "TOUCHLINE", "status": "Green" },
     { "name": "SPIKED", "status": "Red" },
     { "name": "Arsenal", "status": "Red" },
-    { "name": "Volleyball 4.2", "status": "Red" },
+    { "name": "Volleyball 4.2", "status": "Red" }
   ],
 
   "quote": {
