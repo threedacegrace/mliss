@@ -1,0 +1,33 @@
+{
+  "games": [
+    { "name": "TPS: Ultimate Soccer", "status": "operational" },
+    { "name": "TPS: Street Soccer", "status": "operational" },
+    { "name": "Touch Football", "status": "operational" },
+    { "name": "Realistic Street Soccer", "status": "operational" },
+    { "name": "Pure Soccer", "status": "operational" },
+    { "name": "MPS 4a-Side", "status": "operational" },
+    { "name": "MPS Futsal", "status": "operational" },
+    { "name": "MPS Legacy", "status": "operational" },
+    { "name": "MPS Forks (MMP, etc.)", "status": "operational" },
+    { "name": "The Classic Soccer", "status": "operational" },
+    { "name": "SSRL", "status": "operational" },
+    { "name": "RFF", "status": "operational" },
+    { "name": "VEF", "status": "operational" },
+    { "name": "Freestyle Football", "status": "operational" },
+    { "name": "Basketball Legends", "status": "operational" },
+    { "name": "High School Football", "status": "operational" },
+    { "name": "Football Legends", "status": "operational" },
+    { "name": "Football Fusion 2", "status": "operational" },
+    { "name": "Flag Football", "status": "operational" },
+    { "name": "TOUCHLINE", "status": "operational" },
+    { "name": "Forsaken", "status": "operational" },
+
+    { "name": "Volleyball 4.2", "status": "in_development" },
+    { "name": "RF24", "status": "in_development" },
+    { "name": "RFL", "status": "in_development" },
+    { "name": "Volleyball Legends", "status": "in_development" },
+    { "name": "SPIKED", "status": "in_development" },
+    { "name": "Driving Empire", "status": "in_development" },
+    { "name": "Arsenal", "status": "in_development" }
+  ]
+}
